@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+
+section {
+  vertical-align: middle;
+  margin: 2em;
+}
+
+button {
+  margin: 1em;
+}
+
+ul {
+  margin-right: 2em;
+}
+
+li {
+  display: inline-block;
+  height: 320px;
+  width: 350px;
+  vertical-align: middle;
+  margin-bottom: 10em;
+}
+
+label {
+  margin: 2em;
+}
+
+input {
+  margin: 2em;
+}
+
+header {
+  margin: 2em;
+}
+
+.planetChoices {
+  margin-bottom: 0;
+}
+
+.chosenPlanet {
+  margin-top: 0;
+}
+
+.calculations p {
+  margin-bottom: 0;
+}
